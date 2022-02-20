@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:{"Localized block":"Localized block"}};

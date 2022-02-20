@@ -1,0 +1,8 @@
+.parcel-cache
+dist
+node/
+node_modules/
+packages/test-app/dist
+packages/test-app/node-modules
+target
+
